@@ -25,4 +25,4 @@ Bu proje, EPLAN platformu üzerinde oluşturulmuş **tek hatlı bara (single lin
 
 Aşağıda, bu projede yer alan örnek bir teknik çizimin görseli yer almaktadır:
 
-![Single Line Busbar Çizimi](./Screenshots/projects.png)
+![Single Line Busbar Çizimi](./Screenshots/project.png)
